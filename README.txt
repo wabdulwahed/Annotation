@@ -1,7 +1,7 @@
 ﻿# Annotation
 ...
 `Books` are grouped into `authors`. All authors are grouped into 25 AH periods, based on the year of their death. These repositories are the main working loci—if any modifications are to be added or made to texts or metadata, all has to be done in files in these folders.
-
+jj
 There are three types of text repositories:
 
 - `RAWrabicaXXXXXX` repositories include *raw* texts as they were collected from various open-access online repositories and libraries. These texts are in their initial (*raw*) format and require reformatting and further integration into OpenITI. The overall current number of text files is over 40,000; slightly over 7,000 have been integrated into OpenITI.
